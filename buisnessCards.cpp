@@ -107,6 +107,7 @@ int main ()
     
     // Creates a gap
     cout << endl;
+    cout << endl; 
     
 	return 0;   
 }
